@@ -1,4 +1,6 @@
-### Hi there 👋
+### Youngjae Jang 👋
+
+Undergradstudent @ KAIST and studying Human-AI Interaction
 
 <!--
 **youngjae99/youngjae99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
