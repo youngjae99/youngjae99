@@ -1,6 +1,12 @@
 ### Youngjae Jang 👋
 
 Undergradstudent @ KAIST and studying Human-AI Interaction
+- 🔭 I’m currently working on NAVER
+- 🌱 I’m currently learning ML, iOS dev
+- 📫 How to reach me
+   - youngjae.c@kaist.ac.kr
+   - [Linked in](https://www.linkedin.com/in/youngjae-jang-a3b9621ab/)
+
 
 <!--
 **youngjae99/youngjae99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
