@@ -6,7 +6,7 @@ Undergradstudent @ KAIST and studying Human-AI Interaction
 - 📫 How to reach me
    - youngjae.c@kaist.ac.kr
    - [Linked in](https://www.linkedin.com/in/youngjae-jang-a3b9621ab/)
-
+   - [GitHub Blog](https://youngjae99.github.io)
 
 <!--
 **youngjae99/youngjae99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
