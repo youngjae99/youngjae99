@@ -1,7 +1,7 @@
 ### Youngjae Jang 👋
 
 Undergradstudent @ KAIST and studying Human-AI Interaction
-- 🔭 I’m currently working on NAVER
+- 🔭 I’m currently working on Common Computer Inc.
 - 🌱 I’m currently learning ML, iOS dev
 - 📫 How to reach me
    - youngjae.c@kaist.ac.kr
