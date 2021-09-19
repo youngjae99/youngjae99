@@ -1,8 +1,8 @@
 ### Youngjae Jang 👋
 
-Undergradstudent @ KAIST and studying Human-AI Interaction
+Undergradstudent @ KAIST and studying HCI(especially Human-AI Interaction)
 - 🔭 I’m currently working on Common Computer Inc.
-- 🌱 I’m currently learning ML, iOS dev
+- 🌱 I’m currently learning Frontend Dev, ML
 - 📫 How to reach me
    - youngjae.c@kaist.ac.kr
    - [Linked in](https://www.linkedin.com/in/youngjae-jang-a3b9621ab/)
