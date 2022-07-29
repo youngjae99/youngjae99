@@ -2,9 +2,9 @@
 
 Software Engineer studying Web3(DApp) & HCI(especially Human-AI Interaction)
 - 🔭 I’m currently working on Common Computer Inc.
-- 🌱 I’m currently learning Frontend, Web3(Crypto)
+- 🌱 I’m currently learning Frontend, HCI, Web3(Dapp)
 - 📫 How to reach me
-   - youngjae.c@kaist.ac.kr
+   - youngjae.j99@gmail.com
    - [Linked in](https://www.linkedin.com/in/youngjae-jang-a3b9621ab/)
    - [GitHub Blog](https://youngjae99.github.io)
 
