@@ -6,3 +6,6 @@ Software Engineer studying Frontend & HCI(especially Human-AI Interaction) & Web
 - 📫 How to reach me
    - youngjae.j99@gmail.com
    - [Linked in](https://www.linkedin.com/in/youngjae-jang-a3b9621ab/)
+
+
+[![Youngjae's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngjae99)](https://github.com/anuraghazra/github-readme-stats)
