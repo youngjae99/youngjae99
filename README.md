@@ -1,6 +1,6 @@
 ### Youngjae Jang 👋
 
-Software Engineer studying Frontend & HCI(especially Human-AI Interaction) & Web3(DApp)
+**Frontend Software Engineer** studying HCI(especially Human-AI Interaction) & Web3(DApp)
 - 🔭 I’m currently working on Common Computer Inc.
 - 🌱 I’m currently learning Frontend, HCI, Web3(Dapp)
 - 📫 How to reach me
